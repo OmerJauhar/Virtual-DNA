@@ -1,4 +1,3 @@
-# Virtual-DNA semester project for CS-2002 spring-2024
 <span style="color:#000000"> BRIDGING GENES AND PIXELS TO UNVEIL GENETIC CONNECTIONS</span>
 
 <span style="color:#000000">TABLE OF CONTENTS</span>
