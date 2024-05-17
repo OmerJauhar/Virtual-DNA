@@ -2,9 +2,7 @@
 
 <span style="color:#000000"> BRIDGING GENES AND PIXELS TO UNVEIL GENETIC CONNECTIONS</span>
 
-<span style="color:#000000">TABLE OF CONTENTS</span>
-
-![](img/Presnetation0.jpg)
+![alt text](image-2.png)
 
 |      NAME       | Fingerprint | Model Deployment | Facial Features | Skin Tone | Web<br />Development | Height | Eyes | Blood |
 | :-------------: | :---------: | :--------------: | :-------------: | :-------: | :------------------: | :----: | :--: | :---: |
