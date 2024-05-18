@@ -50,11 +50,6 @@
 
 \_\_ \_\_ **\.** M\. Xu\, X\. Zhang and X\. Zhou\, "Confidence\-Calibrated Face and Kinship Verification\," in IEEE Transactions on Information Forensics and Security\, vol\. 19\, pp\. 372\-384\, 2024\, doi: 10\.1109/TIFS\.2023\.3318957\.
 
-**APPROACH**
-
-\_\_ \_\_ In this we addresses the challenge of confidence estimation in face and kinship verification\, crucial for ensuring reliability and trustworthiness in high\-stakes scenarios\. While existing methods primarily focus on accuracy\, neglecting confidence estimation can lead to unreliable predictions\. To tackle this issue\, we propose an effective confidence measure to convert similarity scores into confidence scores for face pairs\. Additionally\, we introduce Angular Scaling Calibration \(ASC\)\, a simple yet powerful technique that enables existing verification models to generate confidence\-calibrated predictions without requiring model modifications\. Furthermore\, we incorporate uncertainty estimation into the calibrated confidence to enhance model reliability in noisy data settings\. Our approach represents a comprehensive solution for confidence\-calibrated face and kinship verification\, as validated through extensive experiments on four benchmark datasets\. The results demonstrate the efficacy of our proposed method\.
-
-![](img/Presnetation2.png)
 
 **DATASET**
 
@@ -89,7 +84,6 @@
 - **\.** In the image processing notebook We used the original CelebA dataset\. It extracts face images using the MTCNN face detection pre\-trained model\, combines them\, and prepares the dataset for skin tone classification\.
   - The skin tone classification notebook uses the processed face images to classify them based on three predefined skin tones: Fair/Light\, Medium/Tan\, and Dark/Deep\. The MobileNetV2 model is employed for this classification task\.
 
-Face Detection
 
 MTCNN
 
