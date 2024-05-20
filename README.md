@@ -32,7 +32,7 @@
 
 **APPROACH**
 
-**\.** A Siamese neural network has been implemented using contrasive loss function with PyTorch\. A convolutional neural network \(CNN\) employed to create the feature vector\.
+**\.** A Siamese neural network has been implemented using contrastive loss function with PyTorch\. A convolutional neural network \(CNN\) employed to create the feature vector\.
 
 ![](img/Presnetation1.jpg)
 
